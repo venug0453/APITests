@@ -17,7 +17,7 @@ public class Tests
 	//Variables
 	private static int successStatusCode = 200;
 	private static String responseContentType = "JSON";
-	private static String repoName = "MyFirstRepo";
+	private static String repoName = "APITests";
 	private static String repoOwnerName = "venug0453";
 	private static String baseURI = "https://api.github.com/repos/" + repoOwnerName + "/" + repoName;	
 	
